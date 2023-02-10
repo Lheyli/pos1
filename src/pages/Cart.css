@@ -1,0 +1,25 @@
+.cart-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+  }
+  
+  .cart-table th{
+    border: 1px solid rgb(57, 57, 175);
+    padding: 8px;
+    text-align: center;
+    color: white;
+    
+
+  }
+  .cart-table td {
+    border: 1px solid rgb(57, 57, 175);
+    padding: 8px;
+    text-align: center;
+    color: rgb(59, 59, 152);
+    
+  }
+  
+  .cart-table th {
+    background-color: rgb(46, 17, 174);
+  }

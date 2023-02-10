@@ -1,0 +1,9 @@
+.home {
+    height: 100vh;
+    background: linear-gradient(to bottom, #1d5ebe 0%, #17a8d4 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+  }
